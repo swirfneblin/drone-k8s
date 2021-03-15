@@ -1,4 +1,5 @@
-[![Build Status](https://975258d0047041.localhost.run/api/badges/swirfneblin/drone-kubernetes/status.svg)](https://975258d0047041.localhost.run/swirfneblin/drone-kubernetes)
+[![Build Status](https://975258d0047041.localhost.run/api/badges/swirfneblin/drone-k8s/status.svg?ref=refs/heads/main)](https://975258d0047041.localhost.run/swirfneblin/drone-k8s)
+
  ## DroneCI kubernetes
 
 Clone project:
